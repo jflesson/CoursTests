@@ -13,7 +13,8 @@
             {
                 result += "Buzz";
             }
-            return result == string.Empty ? value.ToString() : result;
+            return result == string.Empty ? value.ToString() 
+                : result;
         }
     }
 }

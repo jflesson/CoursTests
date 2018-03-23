@@ -1,0 +1,9 @@
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\bin\Debug\netstandard2.0\AuthenticationFW.deps.json
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\bin\Debug\netstandard2.0\AuthenticationFW.dll
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\bin\Debug\netstandard2.0\AuthenticationFW.pdb
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\obj\Debug\netstandard2.0\AuthenticationFW.csprojResolveAssemblyReference.cache
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\obj\Debug\netstandard2.0\AuthenticationFW.csproj.CoreCompileInputs.cache
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\obj\Debug\netstandard2.0\AuthenticationFW.AssemblyInfoInputs.cache
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\obj\Debug\netstandard2.0\AuthenticationFW.AssemblyInfo.cs
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\obj\Debug\netstandard2.0\AuthenticationFW.dll
+D:\Cours\CoursTests\AuthenticationFW\AuthenticationFW\obj\Debug\netstandard2.0\AuthenticationFW.pdb

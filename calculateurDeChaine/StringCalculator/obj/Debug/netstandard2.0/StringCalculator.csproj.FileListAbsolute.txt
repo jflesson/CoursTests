@@ -1,0 +1,9 @@
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.deps.json
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.pdb
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csprojResolveAssemblyReference.cache
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csproj.CoreCompileInputs.cache
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfoInputs.cache
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfo.cs
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.pdb

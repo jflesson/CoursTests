@@ -1,0 +1,16 @@
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\StringCalculator.Tests.deps.json
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\StringCalculator.Tests.runtimeconfig.json
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\StringCalculator.Tests.runtimeconfig.dev.json
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\StringCalculator.Tests.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\StringCalculator.Tests.pdb
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\StringCalculator.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\bin\Debug\netcoreapp2.0\StringCalculator.pdb
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.csprojResolveAssemblyReference.cache
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.csproj.CoreCompileInputs.cache
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.AssemblyInfoInputs.cache
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.AssemblyInfo.cs
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.dll
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.pdb
