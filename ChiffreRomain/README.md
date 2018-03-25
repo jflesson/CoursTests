@@ -4,6 +4,7 @@ Ecrire une fonction de conversion d'un chiffre de 1 à 50 en son équivalent Rom
 
 Pour vérifier le non fonctionnement de la fonction, nous utiliserons les tests unitaires.
 
+##Rappel
 1 => I
 
 4 => IV
