@@ -14,3 +14,4 @@ D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcore
 D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.AssemblyInfo.cs
 D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.dll
 D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.pdb
+D:\Cours\CoursTests\calculateurDeChaine\StringCalculator.Tests\obj\Debug\netcoreapp2.0\StringCalculator.Tests.csproj.CopyComplete
