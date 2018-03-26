@@ -19,3 +19,15 @@ Pour vérifier le non fonctionnement de la fonction, nous utiliserons les tests 
 40 => XL
 
 50 => L
+
+90 => XC
+
+100 => C
+
+400 => CD
+
+500 => D
+
+900 => CM
+
+1000 => M
